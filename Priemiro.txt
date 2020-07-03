@@ -1,2 +1,3 @@
 Ola estou fazendo meu primeiro arquivo txt oriundio diretamente do meu VScode
 Mais uma mudança!
+TESTE
